@@ -39,6 +39,11 @@
     "webpack": "^3.9.1",
     "webpack-dev-server": "^2.9.5"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alvinyw/vue-identifyCode.git"
+  },
+  "homepage": "https://github.com/Alvinyw/vue-identifyCode",
   "keywords": [
     "图形校验码",
     "校验码",
